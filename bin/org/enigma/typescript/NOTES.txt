@@ -1,0 +1,42 @@
+### NOTES
+
+
+## Default values
+
+
+# boolean
+false
+
+# Object
+null
+
+# int
+0
+
+# double
+0.0D
+
+# long
+0.0L
+
+# short
+0
+
+# byte
+0
+
+# char
+""
+
+
+## Description Notices
+
+
+# Function Port
+A variable has been ported to a function due to compatibility issues with 
+type parameters.
+
+
+# Type Conversion
+A variable has had its type changed due to Java types in comparison to TS
+types.
