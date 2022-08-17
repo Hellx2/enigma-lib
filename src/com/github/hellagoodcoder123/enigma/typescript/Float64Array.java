@@ -1,0 +1,53 @@
+package com.github.hellagoodcoder123.enigma.typescript;
+
+import org.enigma.function.*;
+
+public interface Float64Array {
+    public int BYTES_PER_ELEMENT=0;
+    public ArrayBuffer buffer=null;
+    public int byteLength=0;
+    public int byteOffset=0;
+    public Float64Array copyWithin(int target,int start,int end);
+    public Float64Array copyWithin(int target,int start);
+    public boolean every(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate,java.lang.Object thisArg);
+    public boolean every(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate);
+    public Float64Array fill(double value,int start,int end);
+    public Float64Array fill(double value,int start);
+    public Float64Array fill(double value);
+    public Float64Array filter(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate,java.lang.Object thisArg);
+    public Float64Array filter(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate);
+    public double find(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Boolean> predicate,java.lang.Object thisArg);
+    public double find(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Boolean> predicate);
+    public int findIndex(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Boolean> predicate,java.lang.Object thisArg);
+    public int findIndex(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Boolean> predicate);
+    public void forEach(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Void> callbackfn,java.lang.Object thisArg);
+    public void forEach(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Void> callbackfn);
+    public int indexOf(double searchElement,int fromIndex);
+    public int indexOf(double searchElement);
+    public java.lang.String join(java.lang.String separator);
+    public java.lang.String join();
+    public int lastIndexOf(double searchElement,int fromIndex);
+    public int lastIndexOf(double searchElement);
+    public int length=0;
+    public Float64Array map(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn,java.lang.Object thisArg);
+    public Float64Array map(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn);
+    public int reduce(QuadFunction<java.lang.Number,java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn);
+    public int reduce(QuadFunction<java.lang.Number,java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn,int initialValue);
+    public int reduceRight(QuadFunction<java.lang.Number,java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn);
+    public int reduceRight(QuadFunction<java.lang.Number,java.lang.Number,java.lang.Number,Float64Array,java.lang.Number> callbackfn,int initialValue);
+    public Float64Array reverse();
+    public void set(ArrayLike<java.lang.Number> array,int offset);
+    public void set(ArrayLike<java.lang.Number> array);
+    public Float64Array slice(int start,int end);
+    public Float64Array slice(int start);
+    public Float64Array slice();
+    public boolean some(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate,java.lang.Object thisArg);
+    public boolean some(TripleFunction<java.lang.Number,java.lang.Number,Float64Array,java.lang.Object> predicate);
+    public Float64Array sort(java.util.function.BiFunction<java.lang.Number,java.lang.Number,java.lang.Number> compareFn);
+    public Float64Array subarray(int begin,int end);
+    public Float64Array subarray(int begin);
+    public Float64Array subarray();
+    public java.lang.String toLocaleString();
+    public java.lang.String toString();
+    public Float64Array valueOf();
+}
