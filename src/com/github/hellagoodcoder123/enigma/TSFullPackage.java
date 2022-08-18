@@ -1,7 +1,7 @@
 package com.github.hellagoodcoder123.enigma;
 
-import org.enigma.typescript.*;
-import org.enigma.function.*;
+import com.github.hellagoodcoder123.enigma.typescript.*;
+import com.github.hellagoodcoder123.enigma.function.*;
 
 @SuppressWarnings("all")
 public class TSFullPackage implements TS {
