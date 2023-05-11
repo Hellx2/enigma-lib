@@ -1,1 +1,35 @@
-**__text__**
+LICENSE
+
+TERMS & CONDITIONS
+
+TERMS:
+- Project:
+  The overall collection of files that is this repository. All files in this repository are included.
+  
+- Founder:
+  The user(s) who created the project originally.
+  
+- Manager:
+  The user(s) who control what is contributed to the project and who manage the restrictions on content.
+  
+- Contributor:
+  Any user that has contributed to the project directly, specifying only contributions of directly added text, not a simple idea or suggestion.
+  This does not include:
+  - Addition of comments (documentation however is included)
+  - Modification of log files or text files without any modification to files accessed by code
+  - Snippet creation
+  The founder(s) and manager(s) are included in this classification.
+
+CONDITIONS:
+- Contributors may not bring the entire project team to court on account of their actions. If a charge is placed against the team, the only ones
+  that may be brought to court are ones who actively contributed to the reason of the lawsuit. For example, if a contributor placed malware into
+  the files, then that contributor, as well as the manager who verified it, may be taken to court in a lawsuit, and we encourage that any malware
+  is reported as soon as it is found, and if action is not taken within 24 hours of recieval of the report, then the owners of the project may be
+  taken to court as well, on the charge of report ignorance, convicting them as well.
+
+- If any user is found to have discovered or exploited malware and not reported, then that user may be charged as a contributor to the malware and
+  can be convicted for doing so, even if they did nothing to support it.
+  
+- The project team is not responsible for any damage to the user's computer system if said user has modified any files in their instance of the
+  distribution.
+  
