@@ -33,3 +33,18 @@ CONDITIONS:
 - The project team is not responsible for any damage to the user's computer system if said user has modified any files in their instance of the
   distribution.
   
+- Redistribution of this project/product without licensing and copyright is considered to be a criminal offence and it can and will be charged in
+  court, usually for a fine, with the fined amount depending on how many files were copied.
+  
+- Any files in this repository must have a copyright header, which will look like the following:
+  
+  /*********************************************************************************************/
+  /**                            LICENSED UNDER THE ENIGMA LICENSE                            **/
+  /*********************************************************************************************/
+  Copyright of this product belongs to the project team at the original project, [link to project]
+  This product is in use under strict licensing and may not be edited. A copy of the license can
+  be found here: [link to license]
+  
+- If this product has been redistributed with license and copyright, it is still not upholdable in court if it is edited, this code is distributed
+  on a strict AS-IS basis, where code may not be edited in any way unless to remove certain parts to reduce file sizes. Any perpetrators to this
+  will be held in a court of law, with imaging of the code and comparison of it to the original.
